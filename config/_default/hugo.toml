@@ -1,25 +1,26 @@
-copyright = "© Your Name"
+copyright = "© ui02"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "Asia/Tokyo"
 timeout = "120s"
-title = "Gallery"
+title = "PYZ"
+baseURL = "https://ui02.github.io/pyz/"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "g.a.m.e."
+  title = "PYZ"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    #email = "user@example.com"
+    #name = "Your Name"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    #email = "mailto:user@example.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
