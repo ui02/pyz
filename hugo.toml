@@ -1,0 +1,6 @@
+baseURL = "https://ui02.github.io/pyz/"
+title = "PYZ"
+theme = "hugo-theme-gallery"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
