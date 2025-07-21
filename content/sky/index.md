@@ -1,11 +1,11 @@
 ---
 description: Sky
-menus: "main"
+menus: 
 title: Sky
 categories: ["Sky"]
 weight: 2
 params:
-  featured: true
+  featured: false
   private: false
   theme: dark
   sort_order: desc
