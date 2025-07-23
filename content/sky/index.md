@@ -1,4 +1,5 @@
 ---
+date: 
 description: "Sky: Children of the Light"
 menus: 
 title: Sky
@@ -14,4 +15,5 @@ resources:
   - src: 2021071221141100-5CB89ECCE6346777F68C471954F44457.jpg
     params:
       cover: true
+    title: 
 ---
