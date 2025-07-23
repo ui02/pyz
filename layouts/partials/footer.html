@@ -3,9 +3,9 @@
   <section>
     {{ .Site.Copyright }}
     {{ range .Site.Menus.footer }}
-      <!-- <a {{ with .Params.rel -}}rel="{{ . }}"{{ end -}} href="{{ .URL }}">
+      <a {{ with .Params.rel -}}rel="{{ . }}"{{ end -}} href="{{ .URL }}">
         {{ .Name }}
-      </a> -->
+      </a>
     {{ end }}
   </section>
 </footer>
