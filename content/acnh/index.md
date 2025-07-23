@@ -1,11 +1,19 @@
 ---
-date: 2024-01-01
+date: 
+description: "Animal Crossing: New Horizons"
+menus: 
 title: ACNH
-sort_by: Name
 categories: ["acnh"]
+weight: 2
+params:
+  featured: false
+  private: false
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
-  - src: 2024092921001500-02CB906EA538A35643C1E1484C4B947D.jpg
+  - src: 2024092921005500-02CB906EA538A35643C1E1484C4B947D_hu74b0d24099155135229be8ce74455734_325100_filter_10933573887768330671.jpg
     params:
       cover: true
-    title: This is the cutest and loveliest cat I have ever met in my life. He is BU BU, a cat with 6 fingers, which is unusual, but in fact, smarter than any cat. He meows every time he sees me, and jumps to my bed and sits with me.
+    title: 
 ---
