@@ -2,7 +2,7 @@
 date: 
 description: "Pokémon Legends: Arceus"
 menus: 
-title: Pokemon SV
+title: Pokemon Arceus
 categories: ["pokemon"]
 weight: 2
 params:
