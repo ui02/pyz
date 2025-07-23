@@ -1,6 +1,6 @@
 ---
 date: 2024-01-01
-title: Pokemon Legends: Arceus
+title: Pokémon Legends Arceus
 sort_by: Name
 categories: ["pokemon"]
 resources:
