@@ -1,11 +1,19 @@
 ---
-date: 2024-01-01
+date: 
+description: "Monster Hunter Rise"
+menus: 
 title: MHRise
-sort_by: Name
 categories: ["mhrise"]
+weight: 2
+params:
+  featured: false
+  private: false
+  theme: dark
+  sort_order: desc
+  sort_by: Name # Exif.Date
 resources:
   - src: 
     params:
       cover: true
-    title: This is the cutest and loveliest cat I have ever met in my life. He is BU BU, a cat with 6 fingers, which is unusual, but in fact, smarter than any cat. He meows every time he sees me, and jumps to my bed and sits with me.
+    title: 
 ---
