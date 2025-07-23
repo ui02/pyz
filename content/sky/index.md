@@ -1,5 +1,5 @@
 ---
-description: Sky
+description: Sky: Children of the Light
 menus: 
 title: Sky
 categories: ["Sky"]
