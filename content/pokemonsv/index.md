@@ -1,6 +1,6 @@
 ---
 date: 2024-01-01
-title: Pokemon SV
+title: Pokémon Scarlet and Violet
 sort_by: Name
 categories: ["pokemon"]
 resources:
