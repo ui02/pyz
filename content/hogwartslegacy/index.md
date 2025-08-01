@@ -1,7 +1,7 @@
 ---
 date: 
 description: "ヘキャット先生ファンクラブ"
-menus: 
+menus: main
 title: Hogwarts Legacy
 categories: ["hogwarts"]
 weight: 2
