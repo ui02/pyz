@@ -2,7 +2,7 @@
 date: 
 title: ACNH
 description: "Animal Crossing: New Horizons"
-menus: true
+menus: main
 categories: ["acnh"]
 weight: 2
 params:
