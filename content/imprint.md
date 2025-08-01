@@ -1,5 +1,5 @@
 ---
-title: About
+title: PYZ
 rss_ignore: true
 layout: prose
 menu:
@@ -7,4 +7,5 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here.)
+スクショの鬼Switch2買ったら再開します。
+それまでは過去の写真整理しながらアップしていく予定。
